@@ -13,7 +13,7 @@ export default function Home({allPostsData}) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Formado em Engenharia da Computação.
+          Formado em Engenharia da Computação pela Universidade Federal da Grande Dourados.
           Aspirante a desenvolvedor FullStack.
           Minhas principais compentências são desenvolvimento front end com React JS e backend com Python-Flask.
         </p>
